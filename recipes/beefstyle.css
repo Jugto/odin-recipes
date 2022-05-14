@@ -1,0 +1,25 @@
+
+.description {
+    font-size: 32px;
+    background-color: peru
+}
+
+.des1{
+    font-size:24px;
+}
+
+.title{
+    background-color:peru;
+}
+
+.unorganized{
+    background-color:indianred;
+}
+
+.organized{
+    background-color:goldenrod
+}
+
+.list{
+    color: black
+}
